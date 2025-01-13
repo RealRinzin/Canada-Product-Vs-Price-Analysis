@@ -8,6 +8,8 @@ Here's a README suggestion:
 ## Overview
 This repository contains a comprehensive analysis of retail product prices over the years in Canada. The project explores price trends, particularly in the food sector, and visualizes the relationship between product prices and market fluctuations. 
 
+![Director Dashboard](https://github.com/user-attachments/assets/5e83cb52-ab86-4c3f-a8bf-ced57603cca9)
+
 ## Resources
 - `Clean_data.csv`: Cleaned dataset for analysis.
 - `Food Price Analysis.ipynb`: Jupyter Notebook for exploring and analyzing food price data.
